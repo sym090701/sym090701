@@ -1,8 +1,4 @@
-# 音乐搜索器
 
-[![GitHub release](https://img.shields.io/github/release/maicong/music.svg?style=flat-square)](https://github.com/maicong/music/releases)
-[![PHP version](https://img.shields.io/badge/php-%3E%205.4-orange.svg)](https://github.com/php-src/php)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](#LICENSE)
 
 ## 说明
 
@@ -16,13 +12,8 @@
 
 ## 演示
 
-演示站点暂停维护，2018年11月01日起不再提供演示站点服务。
+demo(http://123.56.47.149:94/)
 
-如果有需要改进的地方，欢迎提交 [Pull Requests](https://github.com/maicong/music/pulls)
-
-## 下载
-
-[📦 下载开发版](https://github.com/maicong/music/archive/master.zip) [📦 获取稳定版](https://github.com/maicong/music/releases)
 
 ## 解决方案
 
@@ -70,10 +61,6 @@
 **3. 国内接口优化**
 
 如果你的网站在国内，打开 [/index.php](index.php)，将 `define('MC_INTERNAL', 0);` 修改为 `define('MC_INTERNAL', 1);`，这样就可以取到咪咕和网易云音乐的 320k 音频了。
-
-## 更新日志
-
-请查看 [CHANGELOG.md](CHANGELOG.md)
 
 ## 免责声明
 
